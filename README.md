@@ -161,11 +161,11 @@ This project was completed in collaboration with a dedicated team of researchers
 
 - **Arianna Z** - *Machine Learning Engineer*
   - Arianna specialized in machine learning modeling and was pivotal in tuning and evaluating the predictive models.
-  - GitHub: [AriannaZ](https://github.com/)
+  - GitHub: [AriannaZ](https://github.com/ariazark)
 
 - **Arlene** - *Code Deployment and Application Development Specialist*
   - Arlene was responsible for deploying the code to GitHub, formatting it for the website, and integrating model deployment into StreamLit for the interactive web application.
-  - GitHub: [Arlene](https://github.com/)
+  - GitHub: [Arlene](https://github.com/arlene-08)
 
 - **Stefani W** - *Project Coordinator, Bias Analyst, and Presentation Lead*
   - Stefani played a crucial role in multiple aspects of the project: conducting the bias analysis, developing and designing the PowerPoint presentations, and overseeing the project’s completion and upload to GitHub. Stefani also ensured that all data used was in compliance with ethical standards, addressing bias and fairness in the project's methodology.
