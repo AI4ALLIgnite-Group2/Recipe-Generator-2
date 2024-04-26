@@ -168,7 +168,7 @@ This project was completed in collaboration with a dedicated team of researchers
   - GitHub: [Arlene](https://github.com/arlene-08)
 
 - **Stefani W** - *Project Coordinator, Bias Analyst, and Presentation Lead*
-  - Stefani played a crucial role in multiple aspects of the project: conducting the bias analysis, developing and designing the PowerPoint presentations, and overseeing the project’s completion and upload to GitHub. Stefani also ensured that all data used was in compliance with ethical standards, addressing bias and fairness in the project's methodology.
+  - Stefani played a crucial role in multiple aspects of the project: conducting the bias analysis, developing and designing the PowerPoint presentations, and overseeing the project’s completion. Stefani also ensured that all data used was in compliance with ethical standards, addressing bias and fairness in the project's methodology.
   - GitHub: [StefaniW](https://github.com/Monsterus007)
 
 **Special Thanks:**
